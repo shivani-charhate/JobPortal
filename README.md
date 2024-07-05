@@ -11,7 +11,7 @@ MERN stack is the idea of using Javascript/Node for fullstack web development.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shivani-charhate/jobPortal.git
+git clone https://github.com/shivani-charhate/JobPortal.git
 ```
 
 2. Install dependencies for both the server and client:
